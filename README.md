@@ -58,11 +58,11 @@ A dynamic Kanban board application built using ReactJS, designed for effective p
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/kanban-board-app
+   git clone https://github.com/souvikcseiitk/Frontend-Assignment-Quicksell
    ```
 2. Navigate to the project directory:
    ```bash
-   cd kanban-board-app
+   cd Frontend-Assignment-Quicksell
    ```
 3. Install dependencies:
    ```bash
