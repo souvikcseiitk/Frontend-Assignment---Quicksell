@@ -1,5 +1,5 @@
 
-# Kanban Board App
+# Quicksell - Frontend Assignment | React JS | 
 
 A dynamic Kanban board application built using ReactJS, designed for effective project management by interacting with ticket data from the Quicksell API. Users can group and sort tickets by various criteria, ensuring a streamlined and customizable workflow.
 
