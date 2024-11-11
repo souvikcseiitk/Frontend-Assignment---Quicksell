@@ -56,7 +56,7 @@ Experience the live app [here](https://souvik-frontend-assignment-quicksell-rk7b
 <code><img height="40" src="https://github.com/souvikcseiitk/Frontend-Assignment-Quicksell/blob/main/img//react.webp" alt="react"></code>
 ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)&nbsp;
 
-
+---
 
 ## 📦 Project Setup
 
