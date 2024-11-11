@@ -44,9 +44,9 @@ A dynamic Kanban board application built using ReactJS, designed for effective p
 
 ## 🖥️ Tech Stack
 **Frontend :**
-<code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/gif/css.webp" alt="css"></code>
-<code> <img src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/gif/js.webp" height="40" alt="js"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/gif/react.webp" alt="react"></code>
+<code><img height="40" src="https://github.com/souvikcseiitk/Frontend-Assignment-Quicksell/blob/main/img/css.webp" alt="css"></code>
+<code> <img src="https://github.com/souvikcseiitk/Frontend-Assignment-Quicksell/blob/main/img/js.webp" height="40" alt="js"></code>
+<code><img height="40" src="https://github.com/souvikcseiitk/Frontend-Assignment-Quicksell/blob/main/img//react.webp" alt="react"></code>
 ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)&nbsp;
 
 ## 📦 Project Setup
@@ -93,6 +93,24 @@ The Kanban Board App is a React-based tool that interfaces with the Quicksell AP
 - **No Priority (0)**
 
 ---
+
+## Sneak Peek of  Kanban-Board 🙈 :
+
+<table>
+  <tr>
+    <td><img src="https://github.com/souvikcseiitk/Frontend-Assignment-Quicksell/blob/main/img/a1.png" alt="" /></td>
+    <td><img src="https://github.com/souvikcseiitk/Frontend-Assignment-Quicksell/blob/main/img/a2.png" alt="" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/souvikcseiitk/Frontend-Assignment-Quicksell/blob/main/img/a3.png" alt="" /></td>
+    <td><img src="https://github.com/souvikcseiitk/Frontend-Assignment-Quicksell/blob/main/img/a4.png" alt="" /></td>
+  </tr>
+</table>
+
+© 2023 Vishal Patidar
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
 
 ## 🌐 Live Demo
 
