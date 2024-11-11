@@ -42,11 +42,12 @@ A dynamic Kanban board application built using ReactJS, designed for effective p
 
 ---
 
-## 🛠️ Tech Stack
-
-- **Frontend**: React, React Router, JavaScript, CSS
-
----
+## 🖥️ Tech Stack
+**Frontend :**
+<code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/gif/css.webp" alt="css"></code>
+<code> <img src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/gif/js.webp" height="40" alt="js"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/gif/react.webp" alt="react"></code>
+![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)&nbsp;
 
 ## 📦 Project Setup
 
