@@ -100,7 +100,7 @@ The Kanban Board App is a React-based tool that interfaces with the Quicksell AP
 
 ---
 
-## Sneak Peek of  Kanban-Board 🙈 :
+## Sneak Peek of my Kanban-Board 🙈 :
 
 <table>
   <tr>
