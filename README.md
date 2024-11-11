@@ -1,5 +1,5 @@
 
-# Quicksell - Frontend Assignment | React JS 
+# Quicksell - Frontend Assignment | React JS | Kanban Board App
 
 A dynamic Kanban board application built using ReactJS, designed for effective project management by interacting with ticket data from the Quicksell API. Users can group and sort tickets by various criteria, ensuring a streamlined and customizable workflow.
 
@@ -96,4 +96,4 @@ The Kanban Board App is a React-based tool that interfaces with the Quicksell AP
 
 ## 🌐 Live Demo
 
-Experience the live app [here](#).
+Experience the live app [here](https://souvik-frontend-assignment-quicksell-rk7b5k7cw.vercel.app/).
